@@ -57,7 +57,7 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
   var me;
-  var list = ['s'];
+  var list = ['testing'];
   var index = 0;
   var data;
   var data2;
